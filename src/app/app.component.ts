@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'my-app';
+
+title = 'Suzy Angular Practice';
+
+}
+export class MyImage{
+ MyImage:any = "C:\Users\astnw\my-app\src\suzy.jpg";
 }
