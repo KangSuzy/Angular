@@ -7,9 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-title = 'Suzy Angular Practice';
+title = 'Suzy\'s Angular Practice';
 
 }
-export class MyImage{
- MyImage:any = "C:\Users\astnw\my-app\src\suzy.jpg";
-}
+
